@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "Student Performance Prediction System"
+version = "0.1.0"
+description = "A system to predict student performance" 
+authors = ["Your Name <your_email@example.com>"]  # Poetry syntax
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+flask = "*"
+
+
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"

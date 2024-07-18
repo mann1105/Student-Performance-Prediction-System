@@ -1,0 +1,6 @@
+#Developed a machine learning-powered Student Performance Prediction System to identify students at risk of academic difficulty. This system allows professors with data-driven insights to students performance, ultimately improving student outcomes and retention rates.
+# - Exploratory Data Analysis (EDA) on student performance data to identify key features influencing academic success.
+# - Designed and trained custom machine learning models using a modular approach (data ingestion, transformation and model training) for optimal performance and maintainability.
+# - Implemented robust prediction and trained pipelines for seamless data processing and model deployment along with exception handling and logging for reliability.
+# - Created a user-friendly web interface using Flask and HTML.
+# - Ensured easy environment setup through well-structured project files (requirements.txt, setup.py) and version control with Git.
